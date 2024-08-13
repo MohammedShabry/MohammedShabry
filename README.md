@@ -1,8 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://github.com/mohammedshabry)
 
 <h1 align="center">Hi 👋, I'm Shabry</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<h3 align="center">Driven Software Engineer with a Focus on Building Scalable and Innovative Digital Solutionsa</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
