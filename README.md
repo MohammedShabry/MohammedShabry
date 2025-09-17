@@ -1,20 +1,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Shabry</h1>
-<h3 align="center">Driven Software Engineer with a Focus on Building Scalable and Innovative Digital Solutionsa</h3>
+<h3 align="center">Junior Full-Stack Developer passionate about building efficient and scalable software</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🧑‍💻 Undergraduate Software Engineer passionate about **Technology and innovation**
 
-- 💻 Full-Stack Developer with experience in building responsive and scalable web applications using **modern frameworks and tools.**
+- 🎓 BSc (Hons) in IT – Software Engineering (SLIIT) – recently graduated
 
-- 🎓 Currently pursuing a degree in Software Engineering at **SLIIT**
+- 🌱 Always exploring new technologies, AI, and Machine Learning
+  
+- 🧩 I enjoy solving problems, writing clean code, and learning every day
 
-- 👨‍💻 All of my projects are available at [http://mohammedshabry.github.io/Shabry](http://mohammedshabry.github.io/Shabry)
+- 💡 Interests: Problem-solving, automation, optimizing workflows, and learning new programming paradigms.
 
-- 🌱 I’m currently learning **AI and machine learning**
+- 🎯 Goal: To grow as a software engineer, contribute to innovative projects, and keep pushing the boundaries of technology.
 
 - 📫 How to reach me **shabry967@gmail.com**
 
